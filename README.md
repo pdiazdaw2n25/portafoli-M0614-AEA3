@@ -1,0 +1,35 @@
+Markdown
+
+
+# El Meu Portafoli Web (M06-RA6)
+
+Projecte per a l'assignatura de M0614. L'objectiu és crear un portafoli web estàtic (HTML/CSS) i gestionar-lo amb Git, GitHub i, eventualment, Integració Contínua.
+
+---
+
+## 🚀 Descripció del Projecte
+
+Aquesta és una pàgina web estàtica simple que serveix com a portafoli personal. Actualment inclou una pàgina d'inici (`index.html`) i anirem afegint seccions com "Sobre Mi" i "Projectes".
+
+---
+
+## 👨‍💻 Autors
+
+Aquest projecte està sent desenvolupat per:
+
+* **[Patrick Diaz Propietari]** - https://github.com/pdiazdaw2n25
+* **[Eric Vera Colaborador]** - https://github.com/everadaw2n25
+
+---
+
+## 🛠️ Pila Tecnològica (Tech Stack)
+
+* **HTML5**
+* **CSS3**
+* **Control de Versions:** Git & GitHub
+
+---
+
+## 🌍 Com Veure el Projecte
+
+Obre el fitxer `index.html` directament al teu navegador.
